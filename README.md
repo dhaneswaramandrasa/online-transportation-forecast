@@ -1,0 +1,2 @@
+# timeseriesonlinetransportation
+It’s almost the end of 2017 and we need to prepare a forecast model to help the company ready for the end year’s demands. Unfortunately, the company is not old enough to have last year data for December, so we can not look back at past demands to prepare forecast for December’s demands.  This project would aim to make an automated forecasting model for hourly demands that would be evaluated on the next 7 days.
